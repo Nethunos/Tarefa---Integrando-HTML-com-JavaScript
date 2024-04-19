@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #65ffeb;
+}
+
+#topo h1 {
+    display: block; 
+    width: 500px;
+    padding: 10px 15px;
+    margin: auto;
+    color: #ff1493;
+    font-size: 72px;
+    font-family: "Bebas Neue", sans-serif;
+}
+
+#formulario input {
+    display: block;
+    width: 500px;
+    height: 30px;
+    margin: 5px 0;
+    background-color: #ffe865;
+    border: none;
+    color: #ff1493;
+    font-weight: 800;
+}
+
+#formulario {
+    margin: auto;
+    width: 500px;
+    color: deeppink;
+    font-size: 36px;
+    font-family: "Montserrat", sans-serif;
+}
+
+#formulario button {
+    background-color: #ff1493;
+    height: 32px;
+    width: 120px;
+    font-size: 26px;
+    color: #ffe865;
+    border: #ffe865;
+}
